@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                ![image](https://user-images.githubusercontent.com/126017989/220444705-14518843-2907-420f-b3f5-6f3269623678.png)
+                          ![dccg4w1-800ddd42-897b-4254-a6f5-c812c830ea35](https://user-images.githubusercontent.com/126017989/220444929-e0784f3a-1412-4e59-b529-2dde73ecd92a.png)
 
 
 - 🌱 I’m currently learning ... Fullstack and App Development
