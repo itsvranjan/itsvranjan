@@ -1,6 +1,7 @@
+![akatsuki-group](https://user-images.githubusercontent.com/126017989/220445140-b0bb56d7-54aa-41c9-a2ab-43f708700411.png)
 ### Hi there 👋
 
-                          ![dccg4w1-800ddd42-897b-4254-a6f5-c812c830ea35](https://user-images.githubusercontent.com/126017989/220444929-e0784f3a-1412-4e59-b529-2dde73ecd92a.png)
+                  
 
 
 - 🌱 I’m currently learning ... Fullstack and App Development
